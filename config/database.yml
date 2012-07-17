@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: database 
+  encoding: utf8
+  template: template0
+  username: bchang
+  password:
